@@ -1,1 +1,1 @@
-# web-designing-tutorial
+# web-design-fundamentals
